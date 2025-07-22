@@ -1,0 +1,1 @@
+# Core components for Cog AI Agent
